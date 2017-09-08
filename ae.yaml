@@ -1,0 +1,18 @@
+# United Arab Emirates holiday definitions for the Ruby Holiday gem.
+#
+# 
+# 
+# https://government.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays
+months:
+  1:
+  - name: New Years Day
+    regions: [ae]
+    mday: 1
+  11:
+  - name: Commemoration Day
+    regions: [ae]
+    mday: 30
+  12:
+  - name: National Day
+    regions: [ae]
+    mday: 2
